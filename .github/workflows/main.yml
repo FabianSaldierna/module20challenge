@@ -28,7 +28,7 @@ jobs:
           node-version: 20.x
 
       # Install dependencies
-      - name: 🧰 Install Deps
+      - name: Install Deps
         run: npm install
         
       # Build Application
