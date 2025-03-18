@@ -3,9 +3,6 @@ name: From develop to main
 
 # Trigger workflow on all pull requests
 on:
-  push:
-    branches: 
-      - main
   pull_request:
     branches:
       - develop
