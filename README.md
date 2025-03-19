@@ -33,21 +33,22 @@ This project solves the challenge for Module 20 with GitHub Actions. It contains
 
 ## Installation
 In order to use the application, you may need to install NPM packages with:
-
+```
   npm i
-
+```
 Then you may compile the client and server applications:
-
+```
   npm run build
-
+```
 Create the seeds with:
-
+```
   npm run seed
-
+```
 To run the cypress tests, use the following command:
-
+```
   npm run develop (for dev environment )
   npm run start ( for production)
+```
 
 ## Credits
 Fabian Saldierna.
