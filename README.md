@@ -22,7 +22,7 @@ This project solves the challenge for Module 20 with GitHub Actions. It contains
 
    ![image](https://github.com/user-attachments/assets/2dc0ab32-ef38-4ad4-82d2-fdb6fc1c3f9e)
 
-  For a deatailed look of the test, go again to the "actions" tab on GitHub:
+  For a detailed look of the test, go again to the "actions" tab on GitHub:
 
   ![image](https://github.com/user-attachments/assets/2ff5557a-ad40-4af4-b73a-7d0895529003)
 
